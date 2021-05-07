@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (5.4.3)
+  - camera (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - HaishinKit (1.1.4):
+    - Logboard (~> 2.2.1)
+  - Logboard (2.2.2)
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+  - replay_kit_launcher (0.3.0):
+    - Flutter
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - camera (from `.symlinks/plugins/camera/ios`)
+  - Flutter (from `Flutter`)
+  - HaishinKit (~> 1.1.4)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - replay_kit_launcher (from `.symlinks/plugins/replay_kit_launcher/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HaishinKit
+    - Logboard
+
+EXTERNAL SOURCES:
+  camera:
+    :path: ".symlinks/plugins/camera/ios"
+  Flutter:
+    :path: Flutter
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  replay_kit_launcher:
+    :path: ".symlinks/plugins/replay_kit_launcher/ios"
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  camera: a0ca5080336f7af47b88436e5e26da3dee5568f0
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  HaishinKit: 361dfd7d5feaa358946cff681833f7c747fbc37b
+  Logboard: 0ab6bbd984ed032b3f0b615cef06779a73445c80
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+  replay_kit_launcher: 9c6874fe17ce278a6f0e99e3698acf194480e9a2
+
+PODFILE CHECKSUM: 3e68250dbcda0b158614265b894c2a3092ccc8d8
+
+COCOAPODS: 1.10.1
